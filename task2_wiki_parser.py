@@ -1,4 +1,5 @@
 # Решение задачи 2
+
 import requests
 from bs4 import BeautifulSoup
 from collections import defaultdict

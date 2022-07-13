@@ -55,6 +55,7 @@ tests = [
      },
 ]
 
+
 if __name__ == '__main__':
     for i, test in enumerate(tests):
         test_answer = appearance(test['data'])

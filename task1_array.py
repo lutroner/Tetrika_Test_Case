@@ -1,10 +1,10 @@
 # Решение задачи 1
-# Вариант 1
+# Вариант_1
 def task(array: str) -> str:
     return f"OUT: {array.index('0')}"
 
 
-# Вариант 2
+# Вариант_2
 def task1(array: str) -> str:
     for i, item in enumerate(array):
         if item == '0':
