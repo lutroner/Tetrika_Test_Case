@@ -1,5 +1,5 @@
 # Решение задачи 1
-# Вариант_1
+# Вариант 1
 def task(array: str) -> str:
     return f"OUT: {array.index('0')}"
 
